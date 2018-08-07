@@ -13,4 +13,7 @@
 
 [路由网关](https://github.com/shanyao19940801/SpringCloudDemo/blob/master/files/%E7%BD%91%E5%85%B3.md)
 
-[参考](https://blog.csdn.net/forezp/article/details/70148833/)
+[分布式配置中心]()
+* 网页参考：
+
+	[参考](https://blog.csdn.net/forezp/article/details/70148833/)
