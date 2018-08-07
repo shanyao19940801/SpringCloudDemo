@@ -12,8 +12,12 @@
 [断路器](https://github.com/shanyao19940801/SpringCloudDemo/blob/master/files/%E6%96%AD%E8%B7%AF%E5%99%A8.md)
 
 [路由网关](https://github.com/shanyao19940801/SpringCloudDemo/blob/master/files/%E7%BD%91%E5%85%B3.md)
+ 
+[分布式配置中心](https://github.com/shanyao19940801/SpringCloudDemo/blob/master/files/%E5%88%86%E5%B8%83%E5%BC%8F%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83.md)
+ 
 
-[分布式配置中心]()
+
+
 * 网页参考：
 
 	[参考](https://blog.csdn.net/forezp/article/details/70148833/)
