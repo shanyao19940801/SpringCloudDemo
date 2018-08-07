@@ -13,6 +13,12 @@ public class ConfigControler {
     public String getFoo(){
         return foo;
     }
+    @Value("${yao}")
+    String yao;
+    @RequestMapping(value = "/yao")
+    public String getYao(){
+        return yao;
+    }
 
 
 }
