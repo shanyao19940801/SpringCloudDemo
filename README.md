@@ -15,7 +15,7 @@
  
 [分布式配置中心](https://github.com/shanyao19940801/SpringCloudDemo/blob/master/files/%E5%88%86%E5%B8%83%E5%BC%8F%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83.md)
  
-
+[消息总线](https://github.com/shanyao19940801/SpringCloudDemo/blob/master/files/%E6%B6%88%E6%81%AF%E6%80%BB%E7%BA%BF.md)
 
 
 * 网页参考：
