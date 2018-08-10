@@ -17,6 +17,20 @@
 - 断路器
 - 分布式消息传递
 
+### 整体来看组件
+
+![微服务](https://github.com/shanyao19940801/SpringCloudDemo/blob/master/image/cloud02.png)
+
+从上图可以看出Spring Cloud各个组件相互配合，合作支持了一套完整的微服务架构。 
+
+- 其中Eureka负责服务的注册与发现，很好将各服务连接起来
+- Hystrix 负责监控服务之间的调用情况，连续多次失败进行熔断保护。
+- Hystrix dashboard,Turbine 负责监控 Hystrix的熔断情况，并给予图形化的展示
+- Spring Cloud Config 提供了统一的配置中心服务
+- 当配置文件发生变化的时候，Spring Cloud Bus 负责通知各服务去获取最新的配置信息
+- 所有对外的请求和服务，我们都通过Zuul来进行转发，起到API网关的作用
+- 监控我们使用Sleuth+Zipkin+springAdmin将所有的请求数据记录下来，方便我们进行后续分析
+
 ![tu1](https://github.com/shanyao19940801/SpringCloudDemo/blob/master/image/cloud01.png)
 
 ### 各个组件
